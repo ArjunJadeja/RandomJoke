@@ -3,8 +3,20 @@
 
 It is an Google Chrome extension which tells you jokes.
 
-# To download click Here 👇
+# To download 
+
+1. Click Here 👇
 https://github.com/ArjunJadeja/RandomJoke/blob/master/RandomJoke.crx
+
+2. Click "View Raw" 
+it will automatically start downloading file
+
+3. After the file is downloaded, double click on it 
+this will open google chrome browser if not open.
+
+4. Click Continue.
+
+5. Congrats! You have installed this Extension.
 
 ## Demo
 
