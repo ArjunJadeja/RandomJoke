@@ -3,6 +3,8 @@
 
 It is an Google Chrome extension which tells you jokes.
 
+# To download click Here 👇
+https://github.com/ArjunJadeja/RandomJoke/blob/master/RandomJoke.crx
 
 ## Demo
 
